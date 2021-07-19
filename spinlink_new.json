@@ -1,0 +1,33 @@
+{
+	"app_id": 2,
+	"app_name": "Coin Spin",
+	"app_package_name": "com.manthanvanani.spinlinkscoinrewards",
+	"current_advertise_type": 1,
+	"package_name": "com.manthanvanani.spinlinkscoinrewards",
+	"redirect_url": "https://play.google.com/store/apps/details?id=com.manthanvanani.spinlinkscoinrewards",
+	"google_android_appID": "ca-app-pub-2867037774906335~4884711463",
+	"facebook_keys": {
+		"android": {
+			"interstitial": "302414584566791_302414874566762",
+			"banner": "302414584566791_302414771233439",
+			"native": "302414584566791_302415317900051"
+		},
+		"iOS": {
+			"interstitial": "714897359396761_714907116062452",
+			"banner": "714897359396761_714906836062480",
+			"native": "302414584566791_302415317900051"
+		}
+	},
+	"google_keys": {
+		"android": {
+			"interstitial": "ca-app-pub-2867037774906335/2568226235",
+			"banner": "ca-app-pub-2867037774906335/6006221441",
+			"native": "ca-app-pub-2867037774906335/8563639009"
+		},
+		"iOS": {
+			"interstitial": "ca-app-pub-2867037774906335/9276378463",
+			"banner": "ca-app-pub-2867037774906335/2918374745",
+			"native": "ca-app-pub-2867037774906335/6740826418"
+		}
+	}
+}
