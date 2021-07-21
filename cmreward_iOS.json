@@ -6,6 +6,7 @@
 	"package_name": "com.manthanvanani.cmrewardlinks",
 	"redirect_url": "https://play.google.com/store/apps/details?id=com.manthanvanani.spinlinkscoinrewards",
 	"google_android_appID": "ca-app-pub-4854995302261228~6694170513",
+	"isTestAd" : false, 
 	"facebook_keys": {
 		"android": {
 			"interstitial": "302414584566791_302414874566762",
