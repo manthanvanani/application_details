@@ -2,7 +2,7 @@
 	"app_id": 1,
 	"app_name": "CM Reward",
 	"app_package_name": "com.manthanvanani.cmreward",
-	"current_advertise_type": 1,
+	"current_advertise_type": -1,
 	"package_name": "com.manthanvanani.cmreward",
 	"redirect_url": "https://play.google.com/store/apps/details?id=com.manthanvanani.cmreward",
 	"google_android_appID" : "ca-app-pub-2867037774906335~9711492734",
