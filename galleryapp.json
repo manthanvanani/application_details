@@ -1,0 +1,11 @@
+{
+	"app_id": 1,
+	"app_name": "Gallery APP",
+	"package_name": "com.manthanvanani.galleryapp",
+	"redirect_url": "https://play.google.com/store/apps/details?id=com.manthanvanani.galleryapp",
+	"is_show_ads": true,
+	"google_app_id" : "ca-app-pub-2867037774906335~6249779935",
+	"interstitial_id": "ca-app-pub-2867037774906335/4745126578",
+	"banner_id": "ca-app-pub-2867037774906335/8684371581",
+	"native_id": "ca-app-pub-2867037774906335/1863171735"
+}
