@@ -1,10 +1,10 @@
 {
 	"app_id": 1,
-	"app_name": "Player",
-	"app_package_name": "com.manthanvanani.player",
+	"app_name": "Simple Music Player",
+	"app_package_name": "com.manthanvanani.simplemusicplayer",
 	"current_advertise_type": 0,
-	"package_name": "com.manthanvanani.player",
-	"redirect_url": "https://play.google.com/store/apps/details?id=com.manthanvanani.player",
+	"package_name": "com.manthanvanani.simplemusicplayer",
+	"redirect_url": "https://play.google.com/store/apps/details?id=com.manthanvanani.simplemusicplayer",
 	"facebook_keys": {
 		"android": {
 			"interstitial": "418573849520500_544273330283884",
