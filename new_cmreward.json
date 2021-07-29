@@ -8,7 +8,7 @@
 	"google_android_appID" : "ca-app-pub-2867037774906335~9711492734",
 	"facebook_keys": {
 		"android": {
-			"interstitial": "783669842490726_783670065824037",
+			"interstitial": "418573849520500_544273330283884",
 			"banner": "418573849520500_422870502424168",
 			"native": "418573849520500_422852852425933"
 		},
@@ -20,9 +20,9 @@
 	},
 	"google_keys":  {
 		"android": {
-			"interstitial": "ca-app-pub-4854995302261228/5718919596",
-			"banner": "ca-app-pub-4854995302261228/4294157284",
-			"native": "ca-app-pub-4854995302261228/8041830603"
+			"interstitial": "ca-app-pub-2867037774906335/9276378463",
+			"banner": "ca-app-pub-2867037774906335/2918374745",
+			"native": "ca-app-pub-2867037774906335/6740826418"
 		},
 		"iOS": {
 			"interstitial": "ca-app-pub-2867037774906335/9276378463",
