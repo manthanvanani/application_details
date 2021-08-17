@@ -1,33 +1,46 @@
 {
-	"app_id": 1,
-	"app_name": "CM Reward",
-	"app_package_name": "com.manthanvanani.cmreward",
-	"current_advertise_type": 1,
-	"package_name": "com.manthanvanani.cmreward",
-	"redirect_url": "https://play.google.com/store/apps/details?id=com.manthanvanani.cmreward",
-	"google_android_appID" : "ca-app-pub-2867037774906335~9711492734",
-	"facebook_keys": {
-		"android": {
-			"interstitial": "420317822711548_423323522410978",
-			"banner": "418573849520500_422870502424168",
-			"native": "418573849520500_422852852425933"
-		},
-		"iOS": {
-			"interstitial": "418573849520500_544274400283777",
-			"banner": "418573849520500_544274033617147",
-			"native": "418573849520500_544274516950432"
-		}
-	},
-	"google_keys":  {
-		"android": {
-			"interstitial": "ca-app-pub-4854995302261228/5718919596",
-			"banner": "ca-app-pub-4854995302261228/4294157284",
-			"native": "ca-app-pub-4854995302261228/8041830603"
-		},
-		"iOS": {
-			"interstitial": "ca-app-pub-2867037774906335/9276378463",
-			"banner": "ca-app-pub-2867037774906335/2918374745",
-			"native": "ca-app-pub-2867037774906335/6740826418"
-		}
-	}
+  "app_id": 1,
+  "app_name": "CM Reward",
+  "app_package_name": "com.manthanvanani.cmreward",
+  "current_advertise_type": 3,
+  "package_name": "com.manthanvanani.cmreward",
+  "redirect_url": "https://play.google.com/store/apps/details?id=com.manthanvanani.cmreward",
+  "google_android_appID": "ca-app-pub-2867037774906335~9711492734",
+  "mo_pub_app_id": "d1b41063c348463ca84e7dfd6ac05737",
+  "mo_pub_keys": {
+    "android": {
+      "interstitial": "6620553f7c23475aa86a367597858cdd",
+      "banner": "d1b41063c348463ca84e7dfd6ac05737",
+      "native": "69b575c00c9a4497b59a64b8184940bf"
+    },
+    "iOS": {
+      "interstitial": "6620553f7c23475aa86a367597858cdd",
+      "banner": "d1b41063c348463ca84e7dfd6ac05737",
+      "native": "69b575c00c9a4497b59a64b8184940bf"
+    }
+  },
+  "facebook_keys": {
+    "android": {
+      "interstitial": "420317822711548_423323522410978",
+      "banner": "418573849520500_422870502424168",
+      "native": "418573849520500_422852852425933"
+    },
+    "iOS": {
+      "interstitial": "418573849520500_544274400283777",
+      "banner": "418573849520500_544274033617147",
+      "native": "418573849520500_544274516950432"
+    }
+  },
+  "google_keys": {
+    "android": {
+      "interstitial": "ca-app-pub-4854995302261228/5718919596",
+      "banner": "ca-app-pub-4854995302261228/4294157284",
+      "native": "ca-app-pub-4854995302261228/8041830603"
+    },
+    "iOS": {
+      "interstitial": "ca-app-pub-2867037774906335/9276378463",
+      "banner": "ca-app-pub-2867037774906335/2918374745",
+      "native": "ca-app-pub-2867037774906335/6740826418"
+    }
+  }
 }
