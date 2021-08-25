@@ -1,0 +1,33 @@
+{
+	"app_id": 1,
+	"app_name": "Without Number Save - WhatsApp",
+	"app_package_name": "com.manthanvanani.simplemusicplayer",
+	"current_advertise_type": 0,
+	"package_name": "com.manthanvanani.simplemusicplayer",
+	"redirect_url": "https://play.google.com/store/apps/details?id=com.manthanvanani.simplemusicplayer",
+	"facebook_keys": {
+		"android": {
+			"interstitial": "418573849520500_544273330283884",
+			"banner": "418573849520500_422870502424168",
+			"native": "418573849520500_422852852425933"
+		},
+		"iOS": {
+			"interstitial": "418573849520500_544274400283777",
+			"banner": "418573849520500_544274033617147",
+			"native": "418573849520500_544274516950432"
+		}
+	},
+	"google_keys": {
+		"android": {
+			"app_id": "ca-app-pub-4833485813350880~2016278037",
+			"interstitial": "ca-app-pub-4833485813350880/2946216327",
+			"banner": "ca-app-pub-4833485813350880/3556783938",
+			"native": "ca-app-pub-4833485813350880/3556783938"
+		},
+		"iOS": {
+			"interstitial": "ca-app-pub-4833485813350880/2946216327",
+			"banner": "ca-app-pub-4833485813350880/3556783938",
+			"native": "ca-app-pub-4833485813350880/3556783938"
+		}
+	}
+}
